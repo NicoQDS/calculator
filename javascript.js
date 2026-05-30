@@ -1,4 +1,4 @@
-// let variable = 0
+let firstNum = null;
+let secondNum = null;
+let currentOperator = null;
 
-// function myFunction() {
-// }
