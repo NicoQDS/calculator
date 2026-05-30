@@ -61,3 +61,27 @@ body {
     justify-content: center;
     border-radius: 6px;
 }
+
+/* Grid equal */
+[id="grid-equal"] {
+    flex: 0 0 calc((100% - 30px) / 4); /* four columns, account for 3 gaps */
+    height: 80px;
+    background-color: #87d0f0;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+}
+
+/* Grid DEL */
+[id="grid-DEL"] {
+    flex: 0 0 calc((100% - 30px) / 4); /* four columns, account for 3 gaps */
+    height: 80px;
+    background-color: #eec24a;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+}

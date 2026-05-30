@@ -81,7 +81,7 @@ Object.entries(operatorMap).forEach(([id, operator]) => {
 });
 
 // DEL button handler
-const delButton = document.getElementById('grid-cell-DEL');
+const delButton = document.getElementById('grid-DEL');
 if (delButton) {
   delButton.addEventListener('click', () => {
     // Clear all variables
@@ -94,7 +94,7 @@ if (delButton) {
 }
 
 // Equals button handler
-const equalsButton = document.getElementById('grid-cell-=');
+const equalsButton = document.getElementById('grid-equal');
 if (equalsButton) {
   equalsButton.addEventListener('click', () => {
     if (firstNum == null) {
