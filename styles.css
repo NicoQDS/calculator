@@ -66,8 +66,8 @@ body {
 [id="grid-equal"] {
     flex: 0 0 calc((100% - 30px) / 4); /* four columns, account for 3 gaps */
     height: 80px;
-    background-color: #87d0f0;
-    color: #131212;
+    background-color: lightblue;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,8 +78,8 @@ body {
 [id="grid-DEL"] {
     flex: 0 0 calc((100% - 30px) / 4); /* four columns, account for 3 gaps */
     height: 80px;
-    background-color: #d6a92e;
-    color: #ffffff;
+    background-color: yellow;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
