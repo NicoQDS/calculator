@@ -67,7 +67,7 @@ body {
     flex: 0 0 calc((100% - 30px) / 4); /* four columns, account for 3 gaps */
     height: 80px;
     background-color: #87d0f0;
-    color: #000000;
+    color: #131212;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,7 +78,7 @@ body {
 [id="grid-DEL"] {
     flex: 0 0 calc((100% - 30px) / 4); /* four columns, account for 3 gaps */
     height: 80px;
-    background-color: #eec24a;
+    background-color: #d6a92e;
     color: #ffffff;
     display: flex;
     align-items: center;

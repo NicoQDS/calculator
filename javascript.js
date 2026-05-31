@@ -1,3 +1,4 @@
+// Initialize variables to store the first number, second number, and current operator
 let firstNum = null;
 let secondNum = null;
 let currentOperator = null;
